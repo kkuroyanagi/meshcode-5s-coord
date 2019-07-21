@@ -1,0 +1,22 @@
+{
+  "name": "meshcode-5s-coord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkuroyanagi/meshcode-5s-coord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkuroyanagi/meshcode-5s-coord/issues"
+  },
+  "homepage": "https://github.com/kkuroyanagi/meshcode-5s-coord#readme",
+  "dependencies": {
+    "data-utils": "0.0.2"
+  }
+}
